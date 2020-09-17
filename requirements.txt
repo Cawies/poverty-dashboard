@@ -1,0 +1,13 @@
+numpy==1.15.4
+pandas==0.23.4
+dash==1.14.0
+gunicorn==19.9.0
+python-docx==0.8.10
+dash-auth==1.2.0
+setuptools==40.6.3
+wheel==0.32.3
+xlrd==1.1.0
+plotly==4.5.2
+Werkzeug==0.15.0
+requests==2.23.0
+scipy==1.5.2
